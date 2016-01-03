@@ -1,4 +1,14 @@
 <?php
+/**
+ * 
+ *
+ * An open source PHP array validator
+ *
+ * @author		Baligh ur Rahman - jazibjohar
+ * @link		https://smbaligh.wordpress.com/
+ * @since		Version 1.0
+ * @filesourcee 	https://github.com/jazibjohar/php-validator
+ */
 
 class Validator {
 
